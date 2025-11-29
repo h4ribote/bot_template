@@ -1,0 +1,3 @@
+class Discord:
+    Token: str = "BOT_TOKEN"
+    Admins: list[int] = []
